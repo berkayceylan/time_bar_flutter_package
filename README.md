@@ -28,10 +28,11 @@ TimeBar(
     max: 200,
     startVal: 100,
     data: SliderThemeData(),
+    currentTime: TextStyle(),
+    durationTime: TextStyle(),
 ),
 ```
 
-## Additional information
+## Images
 
-Developer: Berkay CEYLAN
-https://github.com/berkayceylan150
+<img src="https://github.com/berkayceylan150/time_bar_flutter_package/blob/main/pictures/screenshots.png">

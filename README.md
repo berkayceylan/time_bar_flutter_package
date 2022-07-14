@@ -1,6 +1,6 @@
 Create time bar with one line code and customize it easily
 
-[![likes](https://badges.bar/bc_image_editor/likes)](https://pub.dev/packages/bc_image_editor)
+[![likes](https://badges.bar/time_bar/likes)](https://pub.dev/packages/time_bar)
 [![MIT](https://img.shields.io/github/license/berkayceylan150/bc_image_editor)](https://github.com/berkayceylan150/bc_image_editor)
 
 ## Features

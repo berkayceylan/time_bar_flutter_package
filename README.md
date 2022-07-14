@@ -35,4 +35,4 @@ TimeBar(
 
 ## Images
 
-<img src="https://github.com/berkayceylan150/time_bar_flutter_package/blob/main/pictures/screenshots.png">
+<img src="https://raw.githubusercontent.com/berkayceylan150/time_bar_flutter_package/main/pictures/screenshots.png">

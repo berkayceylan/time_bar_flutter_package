@@ -2,6 +2,11 @@ Create time bar with one line code and customize it easily
 
 [![likes](https://badges.bar/time_bar/likes)](https://pub.dev/packages/time_bar)
 
+
+##  Tutorial
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/EHFAX42EVcE)
+
 ## Features
 
 - Create time bar with one line code

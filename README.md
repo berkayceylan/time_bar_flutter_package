@@ -1,7 +1,5 @@
 Create time bar with one line code and customize it easily
 
-[![likes](https://badges.bar/time_bar/likes)](https://pub.dev/packages/time_bar)
-
 
 ##  Tutorial
 
